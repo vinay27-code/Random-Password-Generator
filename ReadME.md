@@ -41,7 +41,7 @@ Ensure you have the following installed:
 npx serve .
 
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 HTML5
 
 CSS3
@@ -50,7 +50,7 @@ JavaScript (ES6+)
 
 React.js
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 /project-root
 │
@@ -59,7 +59,7 @@ React.js
 ├── p1.js            # React logic for generating passwords
 
 
-💡 Future Improvements
+## 💡 Future Improvements
 Copy-to-clipboard button
 
 Password strength meter
@@ -67,10 +67,10 @@ Password strength meter
 Dark mode toggle
 
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
-👤 Author
+## 👤 Author
 Made with ❤️ by Vinay
 
 
