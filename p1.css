@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+
+.passwordGenerator{
+    position: relative;
+    top:35vh;
+    background-color: aquamarine;
+    width: 40vw;
+    text-align: center;height: 20vh;
+}
+
+.options{
+    margin-top: 50px;
+}
+
